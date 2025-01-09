@@ -2841,6 +2841,7 @@ dependencies = [
  "bs58",
  "solana-client",
  "solana-idlgen",
+ "solana-program",
  "solana-sdk",
 ]
 
